@@ -3,10 +3,12 @@ package first.pack;
 public class Test_Git {
 
 	public static void main(String [] args) {
-		System.out.println("This is just a test!");
+		
 	}
 	
-	public static void showTest() {
-		System.out.println("this is the second test!");
+	public static String broughSomeChanges(){
+		String name = "Hussain";
+		String friendName = "Mudaser Jan";
+		return name + "" + "is" + friendName+ " " + "'s uncle who is living in America";
 	}
 }
