@@ -9,4 +9,8 @@ public class TestingGitRemtoe {
 	private static void isChangeGood() {
 		System.out.println("Yes, change is always good!");
 	}
+	
+	protected static void methodAdded() {
+		System.out.println("New method added in the remote repository in GitHub app!");
+	}
 }
