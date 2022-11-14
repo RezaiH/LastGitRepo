@@ -13,4 +13,8 @@ public class TestingGitRemtoe {
 	protected static void methodAdded() {
 		System.out.println("New method added in the remote repository in GitHub app!");
 	}
+	
+	public static void printStarts(){
+		System.out.println("****************************************** Hussain Rezai ***********************************");
+	}
 }
